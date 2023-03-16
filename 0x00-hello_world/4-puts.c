@@ -1,4 +1,3 @@
-#!/bin/bash
 #include <string.h>
 int main(void)
 {
