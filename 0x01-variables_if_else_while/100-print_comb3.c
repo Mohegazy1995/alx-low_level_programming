@@ -11,7 +11,7 @@
  *        in ascending order, separated by a comma followed by a space.
  *
  * Return: Always 0.
- */1
+ */
 
 int main(void)
 {
