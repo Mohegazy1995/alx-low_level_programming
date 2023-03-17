@@ -17,7 +17,7 @@ int main(void)
 
 	for (NumComb1 = 0; NumComb1 < 9; NumComb1++)
 	{
-		for (NumComb2; = NumComb1 + 1; NumComb2; < 10; NumComb2++)
+		for (NumComb2 = NumComb1 + 1; NumComb2; < 10; NumComb2++)
 		{
 			putchar((NumComb1 % 10) + '0');
 			putchar((NumComb2 % 10) + '0');
