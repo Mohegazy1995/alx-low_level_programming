@@ -8,6 +8,7 @@
 
 /*
  * main - prints all possible different combinations of two digits.
+ * Numbers should be printed in ascending order, with two digits.
  * Return: Always 0.
  **/
 
