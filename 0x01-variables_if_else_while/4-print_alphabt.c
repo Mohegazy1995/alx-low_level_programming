@@ -5,12 +5,12 @@
 
 #include <stdio.h>
 
-/*
+/**
+ *
  * main -  prints the alphabet in lowercase, except for e,q
  *
  * Return- Always 0
  */
-
 int main(void)
 {
 	char letter;
