@@ -7,16 +7,15 @@
 
 /**
  * main-  prints the lowercase alphabet in reverse,
- * 	You can only use the putchar function.
- * 
+ * You can only use the putchar function.
+ *
  * Return: Always 0.
  */
 int main(void)
 {
 	char rev;
 
-	for (rev = 'z'; rev >= 'a'; rev--)
-	
+	for (rev = 'z'; rev >= 'a'; rev--)	
 		putchar(rev);
 	putchar('\n');
 
