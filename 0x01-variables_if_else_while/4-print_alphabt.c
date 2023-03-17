@@ -6,7 +6,7 @@
 #include <stdio.h>
 
 /*
- * main - print the alphabet in lower case except for e,q
+ * main -  prints the alphabet in lowercase, except for e,q
  *
  * Return- Always 0
  */
