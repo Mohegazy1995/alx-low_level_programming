@@ -1,7 +1,7 @@
 /*
  * File: 6-print_numberz.c.
  * Author: Mohamed K.Hegazy.
- * */
+ **/
 
 #include <stdio.h>
 
