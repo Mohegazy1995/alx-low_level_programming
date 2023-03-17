@@ -11,7 +11,8 @@
 /* betty style doc for function main goes there */
 
 /**
- *this code for state the weather of number is positive or negative
+ * main: this code for state the weather of number 
+ *	is positive or negative
  **/
 int main(void)
 {
