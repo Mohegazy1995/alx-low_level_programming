@@ -6,11 +6,12 @@
 
 #include <stdio.h>
 
-/*
- * main - prints all possible different combinations of two digits.
- * Numbers should be printed in ascending order, with two digits.
+/**
+ * main - Prints all possible combinations of two different digits,
+ *        in ascending order, separated by a comma followed by a space.
+ *
  * Return: Always 0.
- **/
+ */1
 
 int main(void)
 {
