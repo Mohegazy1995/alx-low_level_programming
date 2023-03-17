@@ -9,7 +9,7 @@
  * main - print the alphabet in lower case except for e,q
  *
  * Return- Always 0
- * */
+ */
 
 int main(void)
 {
