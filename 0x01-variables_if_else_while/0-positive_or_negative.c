@@ -1,3 +1,8 @@
+/*
+ * File: 0-positive_or_negative.c
+ * Auth: Mohamed Hegazy
+ */
+
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
@@ -6,10 +11,8 @@
 /* betty style doc for function main goes there */
 
 /**
- *
  *this code for state the weather of number is positive or negative
- *
- * */
+ **/
 int main(void)
 {
 	int n;
