@@ -17,8 +17,8 @@ int main(void)
 
 
 /**
- * _putchar - writes the character c to stdout
- * 
+ * putchar_Print - writes the character c to stdout
+ *
  *
  * Return: void
  * 
