@@ -16,6 +16,13 @@ int main(void)
 }
 
 
+/**
+ * _putchar - writes the character c to stdout
+ * 
+ *
+ * Return: void
+ * 
+ */
 
 void putchar_Print (void)
 {
