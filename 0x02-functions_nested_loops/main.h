@@ -2,10 +2,10 @@
 #define MAIN_H
 
 /**
- * putchar_Print: that function for print _putchar
- *      on screen followed by a new line.
+ * _putchar - writes the character c to stdout
+ * 
  *
- * Return: nothing void.
+ * Return: void
  *
  */
 
