@@ -8,6 +8,7 @@
 
 /*
  * main - Entry point.
+ *
  * Return: Always return 0.
  **/
 
