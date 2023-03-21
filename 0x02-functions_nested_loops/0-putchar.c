@@ -21,7 +21,7 @@ int main(void)
  *
  *
  * Return: void
- * 
+ *
  */
 
 void putchar_Print (void)
