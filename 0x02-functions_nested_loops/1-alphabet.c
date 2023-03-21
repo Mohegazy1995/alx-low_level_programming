@@ -26,7 +26,7 @@ int main(void)
 
 void print_alphabet( )
 {
-	printf('a');
+	printf((char*)'a');
 	printf('\n');
 }
 
