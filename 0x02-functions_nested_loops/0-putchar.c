@@ -4,13 +4,12 @@
  *
  **/
 #include <stdio.h>
+#include "main.h"
 
 /*
  * Main- prints _putchar, followed by a new line.
  * Return: Always return 0.
  **/
-
-void putchar_Print (void);
 
 int main (void)
 {
