@@ -24,9 +24,14 @@ int main(void)
  *
  */
 
-void print_alphabet( )
+void print_alphabet(void )
 {
-	printf(("a");
-	printf('\n');
+	int i;
+	for (i = 'a'; i <= 'z'; i++)
+	{
+		putchar(i);
+	}
+	putcha('\n');
+
 }
 
