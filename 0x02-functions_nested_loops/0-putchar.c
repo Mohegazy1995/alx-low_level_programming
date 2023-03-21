@@ -1,4 +1,4 @@
-/*
+/**
  * File: 0-putchar.c.
  * Author: Mohamed K.Hegazy.
  *
@@ -20,12 +20,6 @@ int main(void)
 
 }
 
-/**
- * File: 0-putchar.c.
- *
- * Author: Mohamed K.Hegazy.
- *
- **/
 /**
  * putchar_Print: that function for print _putchar
  *	on screen followed by a new line.
