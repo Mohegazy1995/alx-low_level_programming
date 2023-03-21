@@ -20,7 +20,8 @@ int main(void)
 }
 
 /*
- * putchar_Print: that function for print _putchar on screen followed by a new line.
+ * putchar_Print: that function for print _putchar
+ * 	on screen followed by a new line.
  *
  * Return: nothing void.
  *
