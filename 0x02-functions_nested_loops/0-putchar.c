@@ -1,16 +1,11 @@
-/**
-  * File: 0-putchar.c.
-  * Author: Mohamed K.Hegazy.
-  *
-  */
 #include <stdio.h>
 #include "main.h"
 
 /**
-  * main - Entry point
-  *
-  * Return: Always 0
-  */
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
@@ -21,12 +16,12 @@ int main(void)
 }
 
 /**
-  * putchar_Print: that function for print _putchar
-  *	on screen followed by a new line.
-  *
-  * Return: nothing void.
-  *
-  */
+ * putchar_Print: that function for print _putchar
+ *	on screen followed by a new line.
+ *
+ * Return: nothing void.
+ *
+ */
 
 void putchar_Print (void)
 {
