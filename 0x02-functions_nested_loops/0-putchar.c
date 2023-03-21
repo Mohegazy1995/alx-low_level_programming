@@ -1,4 +1,4 @@
-/**
+/*
  * File: 0-putchar.c.
  * Author: Mohamed K.Hegazy.
  *
@@ -7,9 +7,9 @@
 #include "main.h"
 
 /**
- * main - Entry point.
+ *main - Entry point.
  *
- * Return: Always return 0.
+ *Return: Always return 0.
  **/
 
 int main(void)
