@@ -11,4 +11,13 @@
 
 void putchar_Print (void);
 
+/**
+ * print_alphabet - writes the character c to stdout
+ *
+ *
+ * Return: void
+ *
+ */
+void print_alphabet(void);
+
 #endif
