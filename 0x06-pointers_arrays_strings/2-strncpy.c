@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _strncpy - copy a string
  * @dest: input value
@@ -10,7 +11,7 @@
 
 char *_strncpy(char *dest, char *src, int n)
 {
-	int i, j;
+	int i;
 
 	i = 0;
 
@@ -23,7 +24,7 @@ char *_strncpy(char *dest, char *src, int n)
 	while (i < n)
 	{
 		dest[i] = '\0';
-		j++;
+		i++;
 	}
 
 	return (dest);
