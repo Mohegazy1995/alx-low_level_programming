@@ -9,7 +9,7 @@
  * Return: This return to dest, that concatenates two strings
  */
 
-char *_strncat(char *dest, char *src, int n)
+char *_strcat(char *dest, char *src)
 {
 	int i;
 	int j;
