@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * _pow_recursion - returns the value of x raised to the power of y.
+ * _pow_recursion - raises x to the power of y
+ * @x: Number Integer
+ * @y: Power
  *
- * @x: number,
- * @y: the power of a number.
- * Retun: on success 1,
- * on error -1.
+ * Return: On success 1.
+ * On error, -1 is returned, and errno is set appropriately.
  */
 
 int _pow_recursion(int x, int y)
