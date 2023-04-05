@@ -5,7 +5,6 @@
  *
  * @x: number,
  * @y: the power of a number.
- *
  * Retun: on success 1,
  * on error -1.
  */
