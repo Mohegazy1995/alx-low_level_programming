@@ -2,10 +2,10 @@
 #include "main.h"
 
 /**
- * Main - prints the number of arguments passed into it.
- * @argc: Number of command line.
- * @argv: Array Name.
- * Return: 0.
+ * main - Prints the number of arguments passed into main
+ * @argc: Number of command line arguments
+ * @argv: Array name
+ * Return: 0
  */
 
 int main(int argc, char *argv[])
@@ -16,11 +16,11 @@ int main(int argc, char *argv[])
 		printf("%d\n", argc - 1);
 	else
 	{
-		for (i = 0; *argv; i++, argv++);
+		for (i = 0; *argv; i++, argv++)
+			;
 
 		printf("%d\n", i - 1);
 	}
 
 	return (0);
 }
-
