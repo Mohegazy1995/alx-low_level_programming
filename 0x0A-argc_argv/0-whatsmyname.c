@@ -2,12 +2,10 @@
 #include <stdio.h>
 
 /**
- * Main -  prints its name, followed by a new line.
- *
- * @argc: Number of command line arguments.
- * @argv: Array name with argc zie.
- *
- * Return: returns 1 on success.
+ * main - Prints the name of the program
+ * @argc: Number of command line arguments
+ * @argv: Array name
+ * Return: 0
  */
 
 
@@ -18,4 +16,5 @@ int main(int argc, char *argv[])
 
 	return (0);
 }
+
 
