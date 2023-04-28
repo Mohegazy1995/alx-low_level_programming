@@ -18,7 +18,7 @@ size_t list_len(const list_t *h)
 		Nof_Elements++;
 		h = h->next;
 	}
-	return (n);
+	return (Nof_Elements);
 }
 
 
